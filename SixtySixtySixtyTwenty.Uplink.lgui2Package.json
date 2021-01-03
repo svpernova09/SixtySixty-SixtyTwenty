@@ -1,0 +1,14 @@
+{
+    "$schema": "http://www.lavishsoft.com/schema/lgui2Package.json",    
+    "elements": [
+        {
+            "type": "window",
+            "name": "sixtySixtySixtyTwenty.window",
+            "title": "Sixty Sixty - Sixty - Twenty",
+            "visibility":"hidden",
+            "width":200,
+            "height":100,
+            "content":"Made by Svpernova09"
+        }
+    ]
+}
